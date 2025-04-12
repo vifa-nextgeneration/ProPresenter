@@ -1852,3 +1852,13 @@ move "Added Manually\02 Playlists\03 📆 Weekly\03 2024\Week 45\S\kerendahan-ha
 move "Added Manually\02 Playlists\03 📆 Weekly\03 2024\Week 45\S\kerendahan-hati-nxtgn-vifa_Slide7.JPG" "Media\Assets"
 move "Added Manually\02 Playlists\03 📆 Weekly\03 2024\Week 45\S\kerendahan-hati-nxtgn-vifa_Slide8.JPG" "Media\Assets"
 move "Added Manually\02 Playlists\03 📆 Weekly\03 2024\Week 45\S\kerendahan-hati-nxtgn-vifa_Slide9.JPG" "Media\Assets"
+
+:: "Added Manually\02 Playlists\03 📆 Weekly\04 2025\Week 15\S"
+move "Added Manually\02 Playlists\03 📆 Weekly\04 2025\Week 15\S\grace-nxtgn_Slide1.JPG" "Media\Assets"
+move "Added Manually\02 Playlists\03 📆 Weekly\04 2025\Week 15\S\grace-nxtgn_Slide2.JPG" "Media\Assets"
+move "Added Manually\02 Playlists\03 📆 Weekly\04 2025\Week 15\S\grace-nxtgn_Slide3.JPG" "Media\Assets"
+move "Added Manually\02 Playlists\03 📆 Weekly\04 2025\Week 15\S\grace-nxtgn_Slide4.JPG" "Media\Assets"
+move "Added Manually\02 Playlists\03 📆 Weekly\04 2025\Week 15\S\grace-nxtgn_Slide5.JPG" "Media\Assets"
+move "Added Manually\02 Playlists\03 📆 Weekly\04 2025\Week 15\S\grace-nxtgn_Slide6.JPG" "Media\Assets"
+move "Added Manually\02 Playlists\03 📆 Weekly\04 2025\Week 15\S\grace-nxtgn_Slide7.JPG" "Media\Assets"
+move "Added Manually\02 Playlists\03 📆 Weekly\04 2025\Week 15\S\grace-nxtgn_Slide8.JPG" "Media\Assets"

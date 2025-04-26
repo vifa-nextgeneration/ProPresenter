@@ -1862,3 +1862,6 @@ move "Media\Assets\grace-nxtgn_Slide5.JPG" "Added Manually\02 Playlists\03 📆 
 move "Media\Assets\grace-nxtgn_Slide6.JPG" "Added Manually\02 Playlists\03 📆 Weekly\04 2025\Week 15\S"
 move "Media\Assets\grace-nxtgn_Slide7.JPG" "Added Manually\02 Playlists\03 📆 Weekly\04 2025\Week 15\S"
 move "Media\Assets\grace-nxtgn_Slide8.JPG" "Added Manually\02 Playlists\03 📆 Weekly\04 2025\Week 15\S"
+
+:: "Added Manually\02 Playlists\03 📆 Weekly\04 2025\Week 17\S"
+move "Media\Assets\Short Movie Kristen - Arah Pulang - Serendipity.mp4" "Added Manually\02 Playlists\03 📆 Weekly\04 2025\Week 17\S"
